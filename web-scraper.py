@@ -7,3 +7,5 @@ soup = bs4.BeautifulSoup(res.text,'lxml')
 
 for x in soup.select('.mw-headline'):
 	print(x.text)
+
+	
