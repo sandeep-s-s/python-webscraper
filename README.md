@@ -5,7 +5,7 @@ Simple python webscraper using Beautiful Soup python library
 Requirements
 ----
 - python3
-- Beautiful Soup library
+- Beautiful Soup library https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 - Requests library
 
 ### Usage
