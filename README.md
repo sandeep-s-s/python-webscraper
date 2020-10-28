@@ -1,6 +1,6 @@
-#  python-webscraper
+#  Python-webscraper
 
-Simple python webscraper using Beautiful Soup python library
+Python based web-scraper using Beautiful Soup library
 
 Requirements
 ----
